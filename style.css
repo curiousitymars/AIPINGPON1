@@ -1,0 +1,12 @@
+body
+{
+    background-position: center;
+}
+.heading {
+    width:100%;
+    font-size:16px;
+}
+.playbutton
+{
+    margin-top:10px;
+}
